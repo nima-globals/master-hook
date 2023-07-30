@@ -13,8 +13,10 @@ A Windows program for sending webhooks with all the features and an easy user in
 </div>
 <br>
 <div align="center">
-<img src="https://img.shields.io/github/downloads/nima-globals/master-hook/total.svg" alt="total" >
 <a href="https://idpay.ir/nimaglobals">Donate Me</a>
+<br>
+  <img src="https://img.shields.io/github/downloads/nima-globals/master-hook/total.svg" alt="total" >
+
 <img src="https://img.shields.io/github/stars/nima-globals/master-hook" alt="stars">
 </div>
 
