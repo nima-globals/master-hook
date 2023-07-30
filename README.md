@@ -14,7 +14,7 @@ A Windows program for sending webhooks with all the features and an easy user in
 <br>
 <div align="center">
 <img src="https://img.shields.io/github/downloads/nima-globals/master-hook/total.svg" alt="total" >
-<a href="https://coffeebede.com/nima-globals"><img width=100 class="img-fluid" src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" /></a>
+<a href="https://idpay.ir/nimaglobals">Donate Me</a>
 <img src="https://img.shields.io/github/stars/nima-globals/master-hook" alt="stars">
 </div>
 
