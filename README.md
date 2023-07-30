@@ -5,8 +5,9 @@ A Windows program for sending webhooks with all the features and an easy user in
 
 #### 🖼 Pictures:
 
-![AppScreenshot](https://pne-team.ir/easy-saraf/images/home.png)
-![AppScreenshot](https://pne-team.ir/easy-saraf/images/Arz.png)
+![AppScreenshot](https://github.com/nima-globals/master-hook/blob/main/screenshots/image1.png)
+![AppScreenshot](https://github.com/nima-globals/master-hook/blob/main/screenshots/image2.png)
+![AppScreenshot](https://github.com/nima-globals/master-hook/blob/main/screenshots/image3.png)
 
 
 ### How to use:
